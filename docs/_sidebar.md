@@ -7,4 +7,6 @@
 * <hr>
 * [LMS Migrator](migrator/migrator-v2.md)
 * [LMS Migrator（v1・旧画面）](migrator/migrator.md)
-* [かんたん出欠管理](attendance/attendance.md)
+* [かんたん出欠管理 for スクール](attendance/attendance-school-v2.md)
+* [かんたん出欠管理 for パーソナル](attendance/attendance-personal-v2.md)
+* [かんたん出欠管理（旧画面）](attendance/attendance.md)
