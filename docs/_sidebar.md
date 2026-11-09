@@ -12,3 +12,6 @@
 * [かんたんクリッカー](attendance/attendance-clicker.md)
 * [かんたん出欠管理（旧画面）](attendance/attendance.md)
 * [受講者名簿](roster/roster-v2.md)
+* [らくらくLRS転送サービス](lrs-relay/lrs-relay.md)
+* [らくらくLRS転送サービス：通知先と通知メール](lrs-relay/lrs-relay-notifications.md)
+* [らくらくLRS転送サービス：Caliper から xAPI への変換](lrs-relay/caliper-xapi-conversion.md)
